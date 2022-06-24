@@ -118,11 +118,11 @@ public class ResTest {
 
   /**
    * 
-   * Test for the NewTestCase_ID854575 method.
+   * Test for the NewTestCase2_ID854575 method.
    * 
    */
   @Test
-  public void testNewTestCase_ID854575() {
+  public void testNewTestCase2_ID854575() {
     MiniClientCoverage c = new MiniClientCoverage(mainPath);
     c.setConnectorEndpoint(connector.getHttpEndpoint());
     
